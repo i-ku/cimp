@@ -1,0 +1,11 @@
+.idea
+__pycache__
+html
+nginx
+Redis-x64-3.2.100
+venv
+caddy.exe
+Caddyfile
+dump.rdb
+manage.spec
+*.cmd
